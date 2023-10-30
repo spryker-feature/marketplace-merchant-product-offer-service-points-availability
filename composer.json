@@ -7,8 +7,8 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
-        "spryker-shop/merchant-product-offer-service-point-availability-widget": "^0.1.0",
-        "spryker/merchant-product-offer-service-point-availability": "^0.1.0"
+        "spryker-shop/merchant-product-offer-service-point-availability-widget": "^0.2.0",
+        "spryker/merchant-product-offer-service-point-availability": "^0.2.0"
     },
     "extra": {
         "branch-alias": {
