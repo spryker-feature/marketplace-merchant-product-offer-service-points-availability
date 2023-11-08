@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Merchant Product Offer Service Points Availability
 
-
+The Marketplace Merchant Product Offer Service Points Availability feature enhances the Click & Collect experience by displaying the availability of product offers at various service points based on Marketplace Merchant selected per product.
 
 ## Installation
 
